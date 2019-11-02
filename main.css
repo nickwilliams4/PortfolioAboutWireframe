@@ -46,6 +46,10 @@ footer {
   padding: 10px;
   background: rgb(69, 69, 69);
 }
+.links {
+  background: grey;
+  display: inline-block;
+}
 @media screen and (min-width: 800px) {
   .container {
     flex-direction: row;
